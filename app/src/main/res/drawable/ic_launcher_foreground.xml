@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "K" monogram under a rising-sun arc: travel + hospitality. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/krew_coral"
+        android:pathData="M30,50a24,24 0,0 1,48 0h-6a18,18 0,0 0,-36 0z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M42,44h7v11l10,-11h9l-12,13l13,15h-9l-11,-13v13h-7z" />
+</vector>

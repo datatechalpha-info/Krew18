@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="krew_teal">#FF00696B</color>
+    <color name="krew_coral">#FFFF7A59</color>
+    <color name="krew_sand">#FFFFF8F2</color>
+    <color name="krew_night">#FF0E1A1B</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
